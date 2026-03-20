@@ -18,12 +18,12 @@ Status Current Reality: No safety net. The delivery partners receive no earnings
 ##  Our Solution
 
 **ZomatoShield** is an AI-powered parametric insurance platform designed exclusively for Zomato's delivery partner ecosystem that:
-Insures revenue loss, not car and health.
-Weekly rate-plan of operations (₹25-₹45/week)
-The claims since to be auto-triggered in case of disruptions.
-Immediacy of payouts through UPI (10 seconds)
-Multi-layered verification of AI-based fraud detection.
-Zomato API delivery verification.
+- Insures revenue loss, not car and health.
+- Weekly rate-plan of operations (₹25-₹45/week)
+- The claims since to be auto-triggered in case of disruptions.
+- Immediacy of payouts through UPI (10 seconds)
+- Multi-layered verification of AI-based fraud detection.
+- Zomato API delivery verification.
 
 ---
 
