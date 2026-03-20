@@ -4,7 +4,7 @@
 
 ##  The Problem
 
-The 500,000+ Zomato delivery partners in India have a monthly income of [?]15,000-[?]25,000, which they suffer 20-30 percent during:
+The 500,000+ Zomato delivery partners in India have a monthly income of ₹15,000-₹25,000, which they suffer 20-30 percent during:
 Monsoon floods (July-September)
 Both extreme heat waves (April-June)
 Extreme air pollution (November-January).
